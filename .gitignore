@@ -110,3 +110,6 @@ ENV/
 
 # misc
 .DS_Store
+
+#Additional
+.html
