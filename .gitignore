@@ -112,4 +112,4 @@ ENV/
 .DS_Store
 
 #Additional
-.html
+*.html
